@@ -1,0 +1,1 @@
+Uruchamianie oprogramowania w różnych wersjach aby porównać ich wyniki. Tworzenie odgałęzień i tworzenie alternatywnych wersji oprogramowania
