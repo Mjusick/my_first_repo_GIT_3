@@ -1,0 +1,9 @@
+Na gałęzi master
+Zmiany do złożenia:
+  (użyj „git restore --staged <plik>...”, aby wycofać)
+	usunięto:        GIT_4_status1.txt
+
+Nieśledzone pliki:
+  (użyj „git add <plik>...”, żeby uwzględnić, co zostanie złożone)
+	GIT_4_status3.txt
+
