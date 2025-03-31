@@ -1,0 +1,3 @@
+Dodanie nowy_plik.txt do repozytorium
+Edycja nowy_plik.txt i dodanie tekstu "hello world"
+Dodanie drugiego pliku z tekstem "Lorem ipsum..."
