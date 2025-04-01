@@ -1,0 +1,15 @@
+* 4d3c517 GIT_8 diff
+* 80598f9 GIT_8 log
+* e7e37ed readme na test
+* 8d27d58 zadanie GIT_7
+* 50ea171 zadanie GIT_6
+* 4e31537 zadanie GIT_5
+* 2fbb855 zadanie 4 readme
+* a25b1d8 zadanie 4 restore
+* 1dcf697 zadanie 4 status
+* a0ab3b6 zadanie git 4
+* d46f4d8 Revert "drugi amend poprawiony"
+* a6a40e9 drugi amend poprawiony
+* 4764d65 zamendowana zmiana
+* 3be266a third commit
+* caaf08c first commit
