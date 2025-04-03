@@ -1,0 +1,143 @@
+commit 57a0c52b2362be25ca50e6d766740d124fea494f
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 20:39:38 2025 +0200
+
+    GIT_8 cherry-pick done
+
+commit 93cb6fd70b4fe34fdc90cbf8052e62d4ffc3d04b
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 20:36:21 2025 +0200
+
+    GIT_8 cherry-pick i rebase
+
+commit 9bdfb44274c73b6d6a1ddd3a0a2766833777c791
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 20:18:33 2025 +0200
+
+    GIT_8 stashed i stan repo
+    
+    GIT_8 stan repo
+
+commit a79d629949ff6a3991b14fdf7cea55387a5ab259
+Merge: 1337d14 4d3c517
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 20:15:56 2025 +0200
+
+    Merge branch 'test'
+
+commit 4d3c5179cf760916431e72ee79d9e99f26b8fca6
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 20:15:32 2025 +0200
+
+    GIT_8 diff
+
+commit 80598f91cb3f7f19b57367acad599ea9d8e0446d
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 20:12:58 2025 +0200
+
+    GIT_8 log
+
+commit 1337d1408d26e14cca8fb4784a10d41e761cf43c
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 20:12:11 2025 +0200
+
+    GIT_8 stash list
+
+commit 499535f9b6178976ad5e285291804e3875417c3e
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 19:33:02 2025 +0200
+
+    GIT_7 branch graph
+
+commit 354d9539850ce04029d122fea766bd2a0241f188
+Merge: e2063ec e7e37ed
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 19:30:20 2025 +0200
+
+    Merge branch 'test'
+
+commit e7e37ed9367960e5e1e1ffed3032df3fddec5738
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 19:22:53 2025 +0200
+
+    readme na test
+
+commit e2063ec338d67b940c2ebd285dc338bcab7c88f7
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 19:21:14 2025 +0200
+
+    readme na master
+
+commit 8d27d587474f8ae61d6cd63c93ecec8c7c22f427
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Tue Apr 1 19:18:51 2025 +0200
+
+    zadanie GIT_7
+
+commit 50ea17146b5a441f1062e952463c44942b7817bc
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Mon Mar 31 19:50:39 2025 +0200
+
+    zadanie GIT_6
+
+commit 4e3153793a2745ff553899603c5cbbddf69683ec
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Mon Mar 31 18:26:33 2025 +0200
+
+    zadanie GIT_5
+
+commit 2fbb855979069dc0c189b865c191b02e3e72b8b7
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 13:07:37 2025 +0100
+
+    zadanie 4 readme
+
+commit a25b1d846cb1f6607ca2a07e6b2ba387a8cfce6c
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 12:58:55 2025 +0100
+
+    zadanie 4 restore
+
+commit 1dcf697c62ece5e9774d8286d37ad4c4a204fbdc
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 12:51:08 2025 +0100
+
+    zadanie 4 status
+
+commit a0ab3b6f4606758158275c4ba376c4ce59f6b704
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 12:44:04 2025 +0100
+
+    zadanie git 4
+
+commit d46f4d81b08b67247ccf6cf74ebee47cff07ccaf
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 12:29:08 2025 +0100
+
+    Revert "drugi amend poprawiony"
+    
+    This reverts commit a6a40e98c3c1aaef51a8d44ab18fddd3b157122e.
+
+commit a6a40e98c3c1aaef51a8d44ab18fddd3b157122e
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 12:24:07 2025 +0100
+
+    drugi amend poprawiony
+
+commit 4764d65d412012f83ce62f9827654bd6d00bc88c
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 12:21:31 2025 +0100
+
+    zamendowana zmiana
+
+commit 3be266acffc6f3f206626d81c427969f3377e4ea
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 12:17:31 2025 +0100
+
+    third commit
+
+commit caaf08cb09361b64042daf9e34654c7f38954d97
+Author: Mjusick <paw.muzyk@gmail.com>
+Date:   Sat Mar 29 11:33:09 2025 +0100
+
+    first commit
